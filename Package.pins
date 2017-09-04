@@ -4,7 +4,7 @@
     {
       "package": "MagickWand",
       "reason": null,
-      "repositoryURL": "/Users/serhii-londar/projects/Github/MagickWand",
+      "repositoryURL": "https://github.com/serhii-londar/MagickWand.git",
       "version": "0.0.1"
     }
   ],

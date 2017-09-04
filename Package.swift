@@ -5,6 +5,6 @@ import PackageDescription
 let package = Package(
     name: "MagicWandExample",
     dependencies: [
-        .Package(url: "../MagickWand", majorVersion: 0)
+        .Package(url: "https://github.com/serhii-londar/MagickWand.git", majorVersion: 0)
     ]
 )
