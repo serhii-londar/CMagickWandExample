@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "MagickWand",
+      "reason": null,
+      "repositoryURL": "/Users/serhii-londar/projects/Github/MagickWand",
+      "version": "0.0.1"
+    }
+  ],
+  "version": 1
+}
