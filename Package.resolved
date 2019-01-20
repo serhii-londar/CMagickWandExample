@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CMagickWand",
+        "repositoryURL": "https://github.com/serhii-londar/MagickWand.git",
+        "state": {
+          "branch": null,
+          "revision": "50869ee8c7e42ca2661fbbd47aa41f9aacc14f8d",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
